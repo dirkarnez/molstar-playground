@@ -1,4 +1,4 @@
-pdf-extract-structured-data
-===========================
-### Notes
-- **This project can only run on Node v18 or above**
+molstar-playground
+==================
+### Using
+- [molstar/molstar: A comprehensive macromolecular library](https://github.com/molstar/molstar)
